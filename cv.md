@@ -6,7 +6,6 @@
   * Telephone: [+375257862542](tel:+375257862542)
   * E-mail: [sholomitsky90@gmail.com](mailto:sholomitsky90@gmail.com)
   * GitHub: [antonsholom](https://github.com/antonsholom)
-  * Skype: [sholomanton](skype:sholomanton)
 
 ## Skills:
   * Software & Tools; 
